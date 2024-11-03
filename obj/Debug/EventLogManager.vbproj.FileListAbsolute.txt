@@ -1,0 +1,12 @@
+C:\Users\marsl\source\repos\EventLogManager\bin\Debug\EventLogManager.exe.config
+C:\Users\marsl\source\repos\EventLogManager\bin\Debug\EventLogManager.exe
+C:\Users\marsl\source\repos\EventLogManager\bin\Debug\EventLogManager.pdb
+C:\Users\marsl\source\repos\EventLogManager\bin\Debug\EventLogManager.xml
+C:\Users\marsl\source\repos\EventLogManager\obj\Debug\EventLogManager.vbproj.AssemblyReference.cache
+C:\Users\marsl\source\repos\EventLogManager\obj\Debug\EventLogManager.Form1.resources
+C:\Users\marsl\source\repos\EventLogManager\obj\Debug\EventLogManager.Resources.resources
+C:\Users\marsl\source\repos\EventLogManager\obj\Debug\EventLogManager.vbproj.GenerateResource.cache
+C:\Users\marsl\source\repos\EventLogManager\obj\Debug\EventLogManager.vbproj.CoreCompileInputs.cache
+C:\Users\marsl\source\repos\EventLogManager\obj\Debug\EventLogManager.exe
+C:\Users\marsl\source\repos\EventLogManager\obj\Debug\EventLogManager.xml
+C:\Users\marsl\source\repos\EventLogManager\obj\Debug\EventLogManager.pdb
